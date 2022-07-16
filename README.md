@@ -1,5 +1,5 @@
 ## Olá! me chamo Jadson 🤚 
-Atualmente estou estudando back-and então escolhi a liguagem python e java para aprender.
+Atualmente estou estudando back-and então escolhi a linguagem python e java para aprender.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jadson_r_/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jadson_Ricard0)
