@@ -2,8 +2,7 @@
 Atualmente estou estudando back-and.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jadson_r_/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jadson_Ricard0)
-
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Jadson_Ricard0)
 
 ![Jadson GitHub stats](https://github-readme-stats.vercel.app/api?username=JadsonRicardo&show_icons=true&theme=tokyonight)
 
